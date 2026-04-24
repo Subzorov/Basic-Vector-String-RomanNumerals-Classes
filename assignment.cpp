@@ -1,4 +1,3 @@
-// 25L-0622 Muhammad Zubair Azam
 
 #include <iostream>
 #include <cstring>
